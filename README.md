@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Maximilian-R/maximilian-r/95dc77c72a01545095b4edafe9ca862688e72a8d/test.svg" width="100%" height="150">
+<img src="https://raw.githubusercontent.com/Maximilian-R/maximilian-r/0a9276124f60a86535b384e2f01544d3ae6ed8ec/test.svg" width="100%" height="150">
 
 <!--
 **Maximilian-R/maximilian-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
