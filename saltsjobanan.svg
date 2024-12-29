@@ -1,0 +1,359 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 100" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <linearGradient id="Namnlös_övertoning_73" data-name="Namnlös övertoning 73" x1="403.95" y1="81.96" x2="403.95" y2="88.92" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"></stop>
+      <stop offset="0.22" stop-color="#fff" stop-opacity=".76"></stop>
+      <stop offset="0.6" stop-color="#fff" stop-opacity=".36"></stop>
+      <stop offset="0.87" stop-color="#fff" stop-opacity=".1"></stop>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"></stop>
+    </linearGradient>
+    <linearGradient id="Namnlös_övertoning_2" data-name="Namnlös övertoning 2" x1="702.01" y1="552.61" x2="702.01" y2="550.81" gradientTransform="translate(-277712.96 3606.77) scale(396.17 -6.18)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#272727"></stop>
+      <stop offset="0.25" stop-color="#4f516a"></stop>
+    </linearGradient>
+    <linearGradient id="Namnlös_övertoning_73-2" data-name="Namnlös övertoning 73" x1="1196.23" y1="81.96" x2="1196.23" y2="88.92" gradientTransform="translate(-44.17 170.88) scale(1 -1)" href="#Namnlös_övertoning_73"></linearGradient>
+    <linearGradient id="Namnlös_övertoning_2-2" data-name="Namnlös övertoning 2" x1="704.01" y1="552.61" x2="704.01" y2="550.81" gradientTransform="translate(280061.24 3606.77) rotate(-180) scale(396.17 6.18)" href="#Namnlös_övertoning_2"></linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="2301" y1="-249.67" x2="2301" y2="550.33" id="gradient-0" gradientTransform="matrix(0.013391, -0.999911, 0.172366, 0.002308, 2192.605879, 2466.987508)">
+      <stop offset="0" style="stop-opacity: 0; stop-color: rgb(255, 255, 255);"></stop>
+      <stop offset="1" style="stop-color: rgb(255, 255, 255);"></stop>
+    </linearGradient>
+  </defs>
+  <g id="Lager_1" data-name="Lager 1" transform="matrix(0.25, 0, 0, 0.25, -1, 86.170052)" style="transform-origin: 1px -83.67px;">
+    <bx:title>scene</bx:title>
+    <g transform="matrix(1, 0, 0, 0.493545, 0, -25.15572)">
+      <bx:title>background</bx:title>
+      <path style="fill: rgb(195, 247, 208);" d="M 2401.144 84.051 C 2401.144 84.051 2601.46 147.79 2717.93 62.644 C 2942.91 -101.83 3139.22 -85.66 3306.84 111.147 C 3360 173.568 3433.83 160.421 3528.31 71.706 C 3666.93 -58.451 3842.05 -40.124 4053.65 126.687 C 4143.74 197.7 4249.63 174.173 4371.3 56.105 C 4483 -52.28 4733.12 -1.325 4801 84.21 L 4800.6 549.983 L 2401.4 550.072 L 2401.144 84.051 Z"></path>
+      <path style="fill: rgb(195, 247, 208);" d="M 1 84.051 C 1 84.051 201.32 147.79 317.79 62.644 C 542.77 -101.83 739.08 -85.66 906.7 111.147 C 959.86 173.568 1033.69 160.421 1128.17 71.706 C 1266.79 -58.451 1441.91 -40.124 1653.51 126.687 C 1743.6 197.7 1849.49 174.173 1971.16 56.105 C 2082.86 -52.28 2332.98 -1.325 2400.86 84.21 L 2400.46 549.983 L 1.26 550.072 L 1 84.051 Z"></path>
+      <animateTransform type="translate" additive="sum" attributeName="transform" values="0 0;-2400 0" begin="0s" dur="6s" fill="freeze" repeatCount="indefinite" keyTimes="0; 1"></animateTransform>
+    </g>
+    <g id="train">
+      <bx:title>train</bx:title>
+      <g id="train2">
+        <path class="cls-11" d="M36.82,81.5h734.23c1.1,0,2,.9,2,2v110.34H34.82v-110.34c0-1.1.9-2,2-2Z" style="fill: rgb(69, 167, 255); stroke: rgb(76, 76, 76); stroke-miterlimit: 10;"></path>
+        <rect class="cls-10" x="34.82" y="194.35" width="738.23" height="9.49" style="fill: rgb(43, 43, 43);"></rect>
+        <rect class="cls-25" x="35.34" y="183.86" width="737.21" height="9.43" style="fill: rgb(0, 146, 255);"></rect>
+        <rect class="cls-18" x="35.34" y="154.25" width="737.21" height="7.41" style="fill: rgb(255, 255, 255);"></rect>
+        <path class="cls-11" d="M178.49,104.87h49.88c1.1,0,2,.9,2,2v86.48h-53.88v-86.48c0-1.1.9-2,2-2Z" style="fill: rgb(69, 167, 255); stroke: rgb(76, 76, 76); stroke-miterlimit: 10;"></path>
+        <path class="cls-11" d="M399.86,104.87h49.88c1.1,0,2,.9,2,2v86.42h-53.88v-86.42c0-1.1.9-2,2-2Z" style="fill: rgb(69, 167, 255); stroke: rgb(76, 76, 76); stroke-miterlimit: 10;"></path>
+        <path class="cls-11" d="M621.88,104.14h49.88c1.1,0,2,.9,2,2v86.98h-53.88v-86.98c0-1.1.9-2,2-2Z" style="fill: rgb(69, 167, 255); stroke: rgb(76, 76, 76); stroke-miterlimit: 10;"></path>
+        <rect class="cls-14" x="181.49" y="111.57" width="14.73" height="36.55" rx="4.6" ry="4.6" style="fill: rgb(34, 81, 137); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></rect>
+        <rect class="cls-14" x="211.18" y="111.57" width="14.73" height="36.55" rx="4.6" ry="4.6" style="fill: rgb(34, 81, 137); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></rect>
+        <rect class="cls-14" x="402.17" y="111.57" width="14.73" height="36.55" rx="4.6" ry="4.6" style="fill: rgb(34, 81, 137); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></rect>
+        <rect class="cls-14" x="432.33" y="111.57" width="14.73" height="36.55" rx="4.6" ry="4.6" style="fill: rgb(34, 81, 137); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></rect>
+        <rect class="cls-14" x="624.72" y="111.57" width="14.73" height="36.55" rx="4.6" ry="4.6" style="fill: rgb(34, 81, 137); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></rect>
+        <rect class="cls-14" x="653.71" y="111.57" width="14.73" height="36.55" rx="4.6" ry="4.6" style="fill: rgb(34, 81, 137); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></rect>
+        <rect class="cls-14" x="259.32" y="111.57" width="45.82" height="36.55" rx="4.6" ry="4.6" style="fill: rgb(34, 81, 137); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></rect>
+        <rect class="cls-14" x="322.64" y="111.57" width="45.82" height="36.55" rx="4.6" ry="4.6" style="fill: rgb(34, 81, 137); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></rect>
+        <rect class="cls-14" x="102.67" y="111.57" width="45.82" height="36.55" rx="4.6" ry="4.6" style="fill: rgb(34, 81, 137); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></rect>
+        <rect class="cls-14" x="482.13" y="111.57" width="45.82" height="36.55" rx="4.6" ry="4.6" style="fill: rgb(34, 81, 137); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></rect>
+        <rect class="cls-14" x="543.89" y="111.57" width="45.82" height="36.55" rx="4.6" ry="4.6" style="fill: rgb(34, 81, 137); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></rect>
+        <rect class="cls-14" x="701.81" y="111.57" width="45.82" height="36.55" rx="4.6" ry="4.6" style="fill: rgb(34, 81, 137); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></rect>
+        <rect class="cls-18" x="35.34" y="98.02" width="737.21" height="3.71" style="fill: rgb(255, 255, 255);"></rect>
+        <path class="cls-11" d="M55.06,104.87h22.94c1.1,0,2,.9,2,2v86.45h-26.94v-86.45c0-1.1.9-2,2-2Z" style="fill: rgb(69, 167, 255); stroke: rgb(76, 76, 76); stroke-miterlimit: 10;"></path>
+        <rect class="cls-14" x="58.54" y="111.57" width="17.11" height="36.55" rx="4.6" ry="4.6" style="fill: rgb(34, 81, 137); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></rect>
+        <path class="cls-14" d="M34.82,107.92h4.05c2.54,0,4.6,2.06,4.6,4.6v30.66c0,2.54-2.06,4.6-4.6,4.6h-4.05v-39.85h0Z" style="fill: rgb(34, 81, 137); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></path>
+        <path class="cls-21" d="M37.34,81.96h733.21c1.1,0,2,.9,2,2v4.95H35.34v-4.95c0-1.1.9-2,2-2Z" style="fill: url(#Namnlös_övertoning_73);"></path>
+        <line class="cls-12" x1="83.37" y1="131.08" x2="83.37" y2="170.12" style="fill: rgb(90, 177, 242); stroke: rgb(76, 76, 76); stroke-miterlimit: 10;"></line>
+        <line class="cls-12" x1="49.56" y1="131.08" x2="49.56" y2="170.12" style="fill: rgb(90, 177, 242); stroke: rgb(76, 76, 76); stroke-miterlimit: 10;"></line>
+        <line class="cls-15" x1="102.67" y1="125.42" x2="148.49" y2="125.42" style="fill: rgb(90, 177, 242); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></line>
+        <line class="cls-15" x1="259.32" y1="125.24" x2="305.14" y2="125.24" style="fill: rgb(90, 177, 242); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></line>
+        <line class="cls-15" x1="322.64" y1="125.24" x2="368.46" y2="125.24" style="fill: rgb(90, 177, 242); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></line>
+        <line class="cls-15" x1="482.13" y1="125.24" x2="527.95" y2="125.24" style="fill: rgb(90, 177, 242); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></line>
+        <line class="cls-15" x1="543.89" y1="125.24" x2="589.71" y2="125.24" style="fill: rgb(90, 177, 242); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></line>
+        <line class="cls-15" x1="701.81" y1="125.24" x2="747.62" y2="125.24" style="fill: rgb(90, 177, 242); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></line>
+        <line class="cls-15" x1="58.54" y1="125.42" x2="75.64" y2="125.42" style="fill: rgb(90, 177, 242); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></line>
+        <rect class="cls-18" x="176.98" y="154.25" width="52.9" height="7.41" style="fill: rgb(255, 255, 255);"></rect>
+        <rect class="cls-9" x="202.71" y="105.28" width="1.99" height="87.59" style="fill: rgb(76, 76, 76);"></rect>
+        <rect class="cls-18" x="398.35" y="154.25" width="52.9" height="7.41" style="fill: rgb(255, 255, 255);"></rect>
+        <rect class="cls-18" x="620.37" y="154.25" width="52.9" height="7.41" style="fill: rgb(255, 255, 255);"></rect>
+        <rect class="cls-9" x="422.81" y="105.28" width="1.99" height="87.59" style="fill: rgb(76, 76, 76);"></rect>
+        <rect class="cls-9" x="645.59" y="104.56" width="1.99" height="88.18" style="fill: rgb(76, 76, 76);"></rect>
+        <rect class="cls-18" x="53.56" y="154.25" width="25.95" height="7.41" style="fill: rgb(255, 255, 255);"></rect>
+        <polygon class="cls-9" points="83.21 81 49.86 81 51.2 74.63 55.49 72.62 77.87 72.62 81.25 74.47 83.21 81" style="fill: rgb(76, 76, 76);"></polygon>
+        <g id="pantograph">
+          <path class="cls-9" d="M688.21,81l1.36-4.22h2.16l1.38,4.22h-4.9Z" style="fill: rgb(76, 76, 76);"></path>
+          <path class="cls-9" d="M727.52,80.95l1.36-4.22h2.16l1.38,4.22h-4.9Z" style="fill: rgb(76, 76, 76);"></path>
+          <path class="cls-9" d="M674.47,74.47h67.21c1.6,1.23,0,2.26,0,2.26h-67.21s-1.6-1.08,0-2.26Z" style="fill: rgb(76, 76, 76);"></path>
+          <path class="cls-3" d="M708.08,74.47l-25.15-17.55,25.15-19.84,26.02,19.7-26.02,17.68Z" style="fill: none; stroke: rgb(76, 76, 76); stroke-linejoin: bevel; stroke-width: 2px;"></path>
+          <line class="cls-4" x1="705.28" y1="35" x2="705.28" y2="41.81" style="fill: none; stroke: rgb(76, 76, 76); stroke-linecap: round; stroke-width: 2px;"></line>
+          <line class="cls-4" x1="711.03" y1="35" x2="711.03" y2="41.81" style="fill: none; stroke: rgb(76, 76, 76); stroke-linecap: round; stroke-width: 2px;"></line>
+          <path class="cls-13" d="M714.19,70.27l-2.08-2.72,13.47-9.16,1.94,2.72" style="fill: none; stroke: rgb(76, 76, 76); stroke-linejoin: round;"></path>
+          <path class="cls-9" d="M718,75.6h-19.81s10.37-7.16,10.32-6.89" style="fill: rgb(76, 76, 76);"></path>
+          <path class="cls-5" d="M714.08,64.23l8.46-5.67c.7-.47,1.66-.28,2.13.42h0c.47.7.28,1.65-.42,2.13l-8.46,5.67c-.7.47-1.66.28-2.13-.42h0c-.47-.7-.28-1.65.42-2.13Z" style="fill: rgb(76, 76, 76); stroke: rgb(0, 0, 0); stroke-width: 0.2px;"></path>
+        </g>
+        <g id="bogies">
+          <path class="cls-16" d="M34.87,205.42h738.28c2.68-4.72,0-11.07,0-11.07H34.87s-2.61,5.53,0,11.07Z" style="fill: url(#Namnlös_övertoning_2);"></path>
+          <g>
+            <g>
+              <circle class="cls-7" cx="113.09" cy="224.84" r="16.13" style="fill: rgb(136, 148, 172); stroke: rgb(0, 0, 0);"></circle>
+              <path class="cls-19" d="M97.46,219.88l4.45,6.25h22.69l4.66-6.25-3.5-6.07h-26.64l-1.66,6.07Z" style="fill: rgb(27, 27, 27); stroke: rgb(63, 87, 135); stroke-width: 0.1px;"></path>
+              <circle class="cls-8" cx="113.09" cy="224.84" r="5.38" style="fill: rgb(64, 64, 64); stroke: rgb(0, 0, 0); stroke-width: 0.2px;"></circle>
+              <path class="cls-6" d="M95.75,226.81l1.37,3.34,8.24,4.17h6.19v-2.65h3.29v2.65h6.45l7.97-4.17,1.16-3.34v-1.97h-6.67l-2.46,1.97-6.45,1.45v1.9h-3.29v-1.9l-6.19-1.45-2.45-1.97h-7.15v1.97h0Z" style="fill: rgb(62, 62, 62); stroke: rgb(0, 0, 0); stroke-width: 0.2px;"></path>
+            </g>
+            <g>
+              <circle class="cls-7" cx="209.2" cy="224.84" r="16.13" style="fill: rgb(136, 148, 172); stroke: rgb(0, 0, 0);"></circle>
+              <path class="cls-19" d="M193.57,219.88l4.45,6.25h22.69l4.66-6.25-3.5-6.07h-26.64l-1.66,6.07Z" style="fill: rgb(27, 27, 27); stroke: rgb(63, 87, 135); stroke-width: 0.1px;"></path>
+              <circle class="cls-8" cx="209.2" cy="224.84" r="5.38" style="fill: rgb(64, 64, 64); stroke: rgb(0, 0, 0); stroke-width: 0.2px;"></circle>
+              <path class="cls-6" d="M191.87,226.81l1.37,3.34,8.24,4.17h6.19v-2.65h3.29v2.65h6.45l7.97-4.17,1.16-3.34v-1.97h-6.67l-2.46,1.97-6.45,1.45v1.9h-3.29v-1.9l-6.19-1.45-2.45-1.97h-7.15v1.97h0Z" style="fill: rgb(62, 62, 62); stroke: rgb(0, 0, 0); stroke-width: 0.2px;"></path>
+            </g>
+            <rect class="cls-20" x="134.18" y="212.58" width="54.47" height="13.55" style="fill: rgb(27, 27, 27);"></rect>
+            <path class="cls-8" d="M90.85,210.1l141.75-.52-1.17,3-2.84,1.24-3.6,1.79-.65,3.74h-3.66l-3.21-3.74h-17.43l-3.14,4.27h-17.38l-2.1-2.31h-29.05l-2.84,2.43-19.78-.11-3.13-4.27h-18l-2.72,4.39h-4.45l-6.6-9.9Z" style="fill: rgb(64, 64, 64); stroke: rgb(0, 0, 0); stroke-width: 0.2px;"></path>
+          </g>
+          <g>
+            <g>
+              <circle class="cls-7" cx="596.95" cy="224.84" r="16.13" style="fill: rgb(136, 148, 172); stroke: rgb(0, 0, 0);"></circle>
+              <path class="cls-19" d="M581.32,219.88l4.45,6.25h22.69l4.66-6.25-3.5-6.07h-26.64l-1.66,6.07Z" style="fill: rgb(27, 27, 27); stroke: rgb(63, 87, 135); stroke-width: 0.1px;"></path>
+              <circle class="cls-8" cx="596.95" cy="224.84" r="5.38" style="fill: rgb(64, 64, 64); stroke: rgb(0, 0, 0); stroke-width: 0.2px;"></circle>
+              <path class="cls-6" d="M579.61,226.81l1.37,3.34,8.24,4.17h6.19v-2.65h3.29v2.65h6.45l7.97-4.17,1.16-3.34v-1.97h-6.67l-2.46,1.97-6.45,1.45v1.9h-3.29v-1.9l-6.19-1.45-2.45-1.97h-7.15v1.97h0Z" style="fill: rgb(62, 62, 62); stroke: rgb(0, 0, 0); stroke-width: 0.2px;"></path>
+            </g>
+            <g>
+              <circle class="cls-7" cx="693.06" cy="224.84" r="16.13" style="fill: rgb(136, 148, 172); stroke: rgb(0, 0, 0);"></circle>
+              <path class="cls-19" d="M677.43,219.88l4.45,6.25h22.69l4.66-6.25-3.5-6.07h-26.64l-1.66,6.07Z" style="fill: rgb(27, 27, 27); stroke: rgb(63, 87, 135); stroke-width: 0.1px;"></path>
+              <circle class="cls-8" cx="693.06" cy="224.84" r="5.38" style="fill: rgb(64, 64, 64); stroke: rgb(0, 0, 0); stroke-width: 0.2px;"></circle>
+              <path class="cls-6" d="M675.73,226.81l1.37,3.34,8.24,4.17h6.19v-2.65h3.29v2.65h6.45l7.97-4.17,1.16-3.34v-1.97h-6.67l-2.46,1.97-6.45,1.45v1.9h-3.29v-1.9l-6.19-1.45-2.45-1.97h-7.15v1.97h0Z" style="fill: rgb(62, 62, 62); stroke: rgb(0, 0, 0); stroke-width: 0.2px;"></path>
+            </g>
+            <rect class="cls-20" x="618.04" y="212.58" width="54.47" height="13.55" style="fill: rgb(27, 27, 27);"></rect>
+            <path class="cls-8" d="M574.71,210.1l141.75-.52-1.17,3-2.84,1.24-3.6,1.79-.65,3.74h-3.66l-3.21-3.74h-17.43l-3.14,4.27h-17.38l-2.1-2.31h-29.05l-2.84,2.43-19.78-.11-3.13-4.27h-18l-2.72,4.39h-4.45l-6.6-9.9Z" style="fill: rgb(64, 64, 64); stroke: rgb(0, 0, 0); stroke-width: 0.2px;"></path>
+          </g>
+          <path class="cls-24" d="M34.81,205.42l7.89,5.25h721.49l8.97-5.25H34.81Z" style="fill: rgb(32, 32, 32);"></path>
+        </g>
+        <polygon class="cls-24" points="740 207.84 740 214.84 776 214.84 776 211.84 773 211.84 773 207.84 776 207.84 776 204.84 779 204.84 779 192.84 773 192.84 773 203.84 740 203.84 740 207.84" style="fill: rgb(32, 32, 32);"></polygon>
+        <polygon class="cls-24" points="54.9 213.81 54.9 210.67 42.7 210.67 35 204.84 35 191.84 29 191.84 29 199.52 26 200.84 23 204.99 23 207.84 29 207.84 29 210.84 32 210.84 32 214.84 29 214.84 29 220.84 43 220.86 43 218.84 46 218.84 54.9 216.21 54.9 213.81" style="fill: rgb(32, 32, 32);"></polygon>
+      </g>
+      <g id="train1">
+        <path class="cls-11" d="M782.95,81.5h738.23v110.34c0,1.1-.9,2-2,2h-734.23c-1.1,0-2-.9-2-2v-110.34h0Z" transform="translate(2304.13 275.35) rotate(-180)" style="fill: rgb(69, 167, 255); stroke: rgb(76, 76, 76); stroke-miterlimit: 10;"></path>
+        <rect class="cls-10" x="782.95" y="194.35" width="738.23" height="9.49" transform="translate(2304.13 398.19) rotate(-180)" style="fill: rgb(43, 43, 43);"></rect>
+        <rect class="cls-25" x="783.44" y="183.86" width="737.21" height="9.43" transform="translate(2304.1 377.15) rotate(-180)" style="fill: rgb(0, 146, 255);"></rect>
+        <rect class="cls-18" x="783.44" y="154.25" width="737.21" height="7.41" transform="translate(2304.1 315.91) rotate(-180)" style="fill: rgb(255, 255, 255);"></rect>
+        <path class="cls-11" d="M1325.63,104.87h53.88v86.48c0,1.1-.9,2-2,2h-49.88c-1.1,0-2-.9-2-2v-86.48h0Z" transform="translate(2705.14 298.21) rotate(-180)" style="fill: rgb(69, 167, 255); stroke: rgb(76, 76, 76); stroke-miterlimit: 10;"></path>
+        <path class="cls-11" d="M1104.26,104.87h53.88v86.42c0,1.1-.9,2-2,2h-49.88c-1.1,0-2-.9-2-2v-86.42h0Z" transform="translate(2262.4 298.15) rotate(-180)" style="fill: rgb(69, 167, 255); stroke: rgb(76, 76, 76); stroke-miterlimit: 10;"></path>
+        <path class="cls-11" d="M882.24,104.14h53.88v86.98c0,1.1-.9,2-2,2h-49.88c-1.1,0-2-.9-2-2v-86.98h0Z" transform="translate(1818.36 297.27) rotate(-180)" style="fill: rgb(69, 167, 255); stroke: rgb(76, 76, 76); stroke-miterlimit: 10;"></path>
+        <rect class="cls-14" x="1359.78" y="111.57" width="14.73" height="36.55" rx="4.6" ry="4.6" transform="translate(2734.29 259.69) rotate(-180)" style="fill: rgb(34, 81, 137); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></rect>
+        <rect class="cls-14" x="1330.09" y="111.57" width="14.73" height="36.55" rx="4.6" ry="4.6" transform="translate(2674.91 259.69) rotate(-180)" style="fill: rgb(34, 81, 137); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></rect>
+        <rect class="cls-14" x="1139.1" y="111.57" width="14.73" height="36.55" rx="4.6" ry="4.6" transform="translate(2292.93 259.69) rotate(-180)" style="fill: rgb(34, 81, 137); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></rect>
+        <rect class="cls-14" x="1108.94" y="111.57" width="14.73" height="36.55" rx="4.6" ry="4.6" transform="translate(2232.61 259.69) rotate(-180)" style="fill: rgb(34, 81, 137); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></rect>
+        <rect class="cls-14" x="916.55" y="111.57" width="14.73" height="36.55" rx="4.6" ry="4.6" transform="translate(1847.82 259.69) rotate(-180)" style="fill: rgb(34, 81, 137); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></rect>
+        <rect class="cls-14" x="887.56" y="111.57" width="14.73" height="36.55" rx="4.6" ry="4.6" transform="translate(1789.85 259.69) rotate(-180)" style="fill: rgb(34, 81, 137); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></rect>
+        <rect class="cls-14" x="1250.86" y="111.57" width="45.82" height="36.55" rx="4.6" ry="4.6" transform="translate(2547.54 259.69) rotate(-180)" style="fill: rgb(34, 81, 137); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></rect>
+        <rect class="cls-14" x="1187.54" y="111.57" width="45.82" height="36.55" rx="4.6" ry="4.6" transform="translate(2420.89 259.69) rotate(-180)" style="fill: rgb(34, 81, 137); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></rect>
+        <rect class="cls-14" x="1407.51" y="111.57" width="45.82" height="36.55" rx="4.6" ry="4.6" transform="translate(2860.84 259.69) rotate(-180)" style="fill: rgb(34, 81, 137); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></rect>
+        <rect class="cls-14" x="1028.05" y="111.57" width="45.82" height="36.55" rx="4.6" ry="4.6" transform="translate(2101.93 259.69) rotate(-180)" style="fill: rgb(34, 81, 137); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></rect>
+        <rect class="cls-14" x="966.29" y="111.57" width="45.82" height="36.55" rx="4.6" ry="4.6" transform="translate(1978.4 259.69) rotate(-180)" style="fill: rgb(34, 81, 137); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></rect>
+        <rect class="cls-14" x="808.38" y="111.57" width="45.82" height="36.55" rx="4.6" ry="4.6" transform="translate(1662.57 259.69) rotate(-180)" style="fill: rgb(34, 81, 137); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></rect>
+        <rect class="cls-18" x="783.44" y="98.02" width="737.21" height="3.71" transform="translate(2304.1 199.75) rotate(-180)" style="fill: rgb(255, 255, 255);"></rect>
+        <path class="cls-11" d="M1475.99,104.87h26.94v86.45c0,1.1-.9,2-2,2h-22.94c-1.1,0-2-.9-2-2v-86.45h0Z" transform="translate(2978.93 298.19) rotate(-180)" style="fill: rgb(69, 167, 255); stroke: rgb(76, 76, 76); stroke-miterlimit: 10;"></path>
+        <rect class="cls-14" x="1480.36" y="111.57" width="17.11" height="36.55" rx="4.6" ry="4.6" transform="translate(2977.82 259.69) rotate(-180)" style="fill: rgb(34, 81, 137); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></rect>
+        <path class="cls-14" d="M1512.53,107.92h4.05c2.54,0,4.6,2.06,4.6,4.6v30.66c0,2.54-2.06,4.6-4.6,4.6h-4.05v-39.85h0Z" transform="translate(3033.71 255.69) rotate(-180)" style="fill: rgb(34, 81, 137); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></path>
+        <path class="cls-17" d="M783.44,81.96h737.21v4.95c0,1.1-.9,2-2,2h-733.21c-1.1,0-2-.9-2-2v-4.95h0Z" transform="translate(2304.1 170.88) rotate(-180)" style="fill: url(#Namnlös_övertoning_73-2);"></path>
+        <line class="cls-12" x1="1472.63" y1="131.08" x2="1472.63" y2="170.12" style="fill: rgb(90, 177, 242); stroke: rgb(76, 76, 76); stroke-miterlimit: 10;"></line>
+        <line class="cls-12" x1="1506.44" y1="131.08" x2="1506.44" y2="170.12" style="fill: rgb(90, 177, 242); stroke: rgb(76, 76, 76); stroke-miterlimit: 10;"></line>
+        <line class="cls-15" x1="1453.33" y1="125.42" x2="1407.51" y2="125.42" style="fill: rgb(90, 177, 242); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></line>
+        <line class="cls-15" x1="1296.68" y1="125.24" x2="1250.86" y2="125.24" style="fill: rgb(90, 177, 242); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></line>
+        <line class="cls-15" x1="1233.36" y1="125.24" x2="1187.54" y2="125.24" style="fill: rgb(90, 177, 242); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></line>
+        <line class="cls-15" x1="1073.87" y1="125.24" x2="1028.05" y2="125.24" style="fill: rgb(90, 177, 242); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></line>
+        <line class="cls-15" x1="1012.11" y1="125.24" x2="966.29" y2="125.24" style="fill: rgb(90, 177, 242); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></line>
+        <line class="cls-15" x1="854.19" y1="125.24" x2="808.38" y2="125.24" style="fill: rgb(90, 177, 242); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></line>
+        <line class="cls-15" x1="1497.46" y1="125.42" x2="1480.36" y2="125.42" style="fill: rgb(90, 177, 242); stroke: rgb(255, 255, 255); stroke-miterlimit: 10;"></line>
+        <rect class="cls-18" x="1326.12" y="154.25" width="52.9" height="7.41" transform="translate(2705.14 315.91) rotate(-180)" style="fill: rgb(255, 255, 255);"></rect>
+        <rect class="cls-9" x="1351.31" y="105.28" width="1.99" height="87.59" transform="translate(2704.6 298.16) rotate(-180)" style="fill: rgb(76, 76, 76);"></rect>
+        <rect class="cls-18" x="1104.75" y="154.25" width="52.9" height="7.41" transform="translate(2262.4 315.91) rotate(-180)" style="fill: rgb(255, 255, 255);"></rect>
+        <rect class="cls-18" x="882.73" y="154.25" width="52.9" height="7.41" transform="translate(1818.36 315.91) rotate(-180)" style="fill: rgb(255, 255, 255);"></rect>
+        <rect class="cls-9" x="1131.2" y="105.28" width="1.99" height="87.59" transform="translate(2264.39 298.15) rotate(-180)" style="fill: rgb(76, 76, 76);"></rect>
+        <rect class="cls-9" x="908.42" y="104.56" width="1.99" height="88.18" transform="translate(1818.84 297.3) rotate(-180)" style="fill: rgb(76, 76, 76);"></rect>
+        <rect class="cls-18" x="1476.5" y="154.25" width="25.95" height="7.41" transform="translate(2978.94 315.91) rotate(-180)" style="fill: rgb(255, 255, 255);"></rect>
+        <polygon class="cls-9" points="1472.79 81 1506.14 81 1504.8 74.63 1500.51 72.62 1478.13 72.62 1474.75 74.47 1472.79 81" style="fill: rgb(76, 76, 76);"></polygon>
+        <g id="pantograph-2" data-name="pantograph">
+          <path class="cls-9" d="M867.79,81l-1.36-4.22h-2.16s-1.38,4.22-1.38,4.22h4.9Z" style="fill: rgb(76, 76, 76);"></path>
+          <path class="cls-9" d="M828.48,80.95l-1.36-4.22h-2.16s-1.38,4.22-1.38,4.22h4.9Z" style="fill: rgb(76, 76, 76);"></path>
+          <path class="cls-9" d="M881.53,74.47h-67.21c-1.6,1.23,0,2.26,0,2.26h67.21s1.6-1.08,0-2.26Z" style="fill: rgb(76, 76, 76);"></path>
+          <path class="cls-3" d="M847.92,74.47l25.15-4.55-25.58-4-25.58,4,26.02,4.55Z" style="fill: none; stroke: rgb(76, 76, 76); stroke-linejoin: bevel; stroke-width: 2px;"></path>
+          <line class="cls-4" x1="850.36" y1="62.52" x2="850.36" y2="69.33" style="fill: none; stroke: rgb(76, 76, 76); stroke-linecap: round; stroke-width: 2px;"></line>
+          <line class="cls-4" x1="844.61" y1="62.52" x2="844.61" y2="69.33" style="fill: none; stroke: rgb(76, 76, 76); stroke-linecap: round; stroke-width: 2px;"></line>
+          <path class="cls-9" d="M838,75.6h19.81s-10.37-7.16-10.32-6.89" style="fill: rgb(76, 76, 76);"></path>
+        </g>
+        <g id="bogies-2" data-name="bogies">
+          <path class="cls-23" d="M1521.13,205.42h-738.28c-2.68-4.72,0-11.07,0-11.07h738.28s2.61,5.53,0,11.07Z" style="fill: url(#Namnlös_övertoning_2-2);"></path>
+          <g>
+            <g>
+              <circle class="cls-7" cx="1442.91" cy="224.84" r="16.13" style="fill: rgb(136, 148, 172); stroke: rgb(0, 0, 0);"></circle>
+              <path class="cls-19" d="M1458.54,219.88l-4.45,6.25h-22.69s-4.66-6.25-4.66-6.25l3.5-6.07h26.64s1.66,6.07,1.66,6.07Z" style="fill: rgb(27, 27, 27); stroke: rgb(63, 87, 135); stroke-width: 0.1px;"></path>
+              <circle class="cls-8" cx="1442.91" cy="224.84" r="5.38" style="fill: rgb(64, 64, 64); stroke: rgb(0, 0, 0); stroke-width: 0.2px;"></circle>
+              <path class="cls-6" d="M1460.25,226.81l-1.37,3.34-8.24,4.17h-6.19v-2.65s-3.29,0-3.29,0v2.65h-6.45s-7.97-4.17-7.97-4.17l-1.16-3.34v-1.97h6.67s2.46,1.97,2.46,1.97l6.45,1.45v1.9s3.29,0,3.29,0v-1.9s6.19-1.45,6.19-1.45l2.45-1.97h7.15v1.97h0Z" style="fill: rgb(62, 62, 62); stroke: rgb(0, 0, 0); stroke-width: 0.2px;"></path>
+            </g>
+            <g>
+              <circle class="cls-7" cx="1346.8" cy="224.84" r="16.13" style="fill: rgb(136, 148, 172); stroke: rgb(0, 0, 0);"></circle>
+              <path class="cls-19" d="M1362.43,219.88l-4.45,6.25h-22.69s-4.66-6.25-4.66-6.25l3.5-6.07h26.64s1.66,6.07,1.66,6.07Z" style="fill: rgb(27, 27, 27); stroke: rgb(63, 87, 135); stroke-width: 0.1px;"></path>
+              <circle class="cls-8" cx="1346.8" cy="224.84" r="5.38" style="fill: rgb(64, 64, 64); stroke: rgb(0, 0, 0); stroke-width: 0.2px;"></circle>
+              <path class="cls-6" d="M1364.13,226.81l-1.37,3.34-8.24,4.17h-6.19v-2.65s-3.29,0-3.29,0v2.65h-6.45s-7.97-4.17-7.97-4.17l-1.16-3.34v-1.97h6.67s2.46,1.97,2.46,1.97l6.45,1.45v1.9s3.29,0,3.29,0v-1.9s6.19-1.45,6.19-1.45l2.45-1.97h7.15v1.97h0Z" style="fill: rgb(62, 62, 62); stroke: rgb(0, 0, 0); stroke-width: 0.2px;"></path>
+            </g>
+            <rect class="cls-20" x="1367.35" y="212.58" width="54.47" height="13.55" transform="translate(2789.16 438.71) rotate(-180)" style="fill: rgb(27, 27, 27);"></rect>
+            <path class="cls-8" d="M1465.15,210.1l-141.75-.52,1.17,3,2.84,1.24,3.6,1.79.65,3.74h3.66s3.21-3.74,3.21-3.74h17.43s3.14,4.27,3.14,4.27h17.38s2.1-2.31,2.1-2.31h29.05s2.84,2.43,2.84,2.43l19.78-.11,3.13-4.27h18s2.72,4.39,2.72,4.39h4.45s6.6-9.9,6.6-9.9Z" style="fill: rgb(64, 64, 64); stroke: rgb(0, 0, 0); stroke-width: 0.2px;"></path>
+          </g>
+          <g>
+            <g>
+              <circle class="cls-7" cx="959.05" cy="224.84" r="16.13" style="fill: rgb(136, 148, 172); stroke: rgb(0, 0, 0);"></circle>
+              <path class="cls-19" d="M974.68,219.88l-4.45,6.25h-22.69s-4.66-6.25-4.66-6.25l3.5-6.07h26.64s1.66,6.07,1.66,6.07Z" style="fill: rgb(27, 27, 27); stroke: rgb(63, 87, 135); stroke-width: 0.1px;"></path>
+              <circle class="cls-8" cx="959.05" cy="224.84" r="5.38" style="fill: rgb(64, 64, 64); stroke: rgb(0, 0, 0); stroke-width: 0.2px;"></circle>
+              <path class="cls-6" d="M976.39,226.81l-1.37,3.34-8.24,4.17h-6.19v-2.65s-3.29,0-3.29,0v2.65h-6.45s-7.97-4.17-7.97-4.17l-1.16-3.34v-1.97h6.67s2.46,1.97,2.46,1.97l6.45,1.45v1.9s3.29,0,3.29,0v-1.9s6.19-1.45,6.19-1.45l2.45-1.97h7.15v1.97h0Z" style="fill: rgb(62, 62, 62); stroke: rgb(0, 0, 0); stroke-width: 0.2px;"></path>
+            </g>
+            <g>
+              <circle class="cls-7" cx="862.94" cy="224.84" r="16.13" style="fill: rgb(136, 148, 172); stroke: rgb(0, 0, 0);"></circle>
+              <path class="cls-19" d="M878.57,219.88l-4.45,6.25h-22.69s-4.66-6.25-4.66-6.25l3.5-6.07h26.64s1.66,6.07,1.66,6.07Z" style="fill: rgb(27, 27, 27); stroke: rgb(63, 87, 135); stroke-width: 0.1px;"></path>
+              <circle class="cls-8" cx="862.94" cy="224.84" r="5.38" style="fill: rgb(64, 64, 64); stroke: rgb(0, 0, 0); stroke-width: 0.2px;"></circle>
+              <path class="cls-6" d="M880.27,226.81l-1.37,3.34-8.24,4.17h-6.19v-2.65s-3.29,0-3.29,0v2.65h-6.45s-7.97-4.17-7.97-4.17l-1.16-3.34v-1.97h6.67s2.46,1.97,2.46,1.97l6.45,1.45v1.9s3.29,0,3.29,0v-1.9s6.19-1.45,6.19-1.45l2.45-1.97h7.15v1.97h0Z" style="fill: rgb(62, 62, 62); stroke: rgb(0, 0, 0); stroke-width: 0.2px;"></path>
+            </g>
+            <rect class="cls-20" x="883.49" y="212.58" width="54.47" height="13.55" transform="translate(1821.44 438.71) rotate(-180)" style="fill: rgb(27, 27, 27);"></rect>
+            <path class="cls-8" d="M981.29,210.1l-141.75-.52,1.17,3,2.84,1.24,3.6,1.79.65,3.74h3.66s3.21-3.74,3.21-3.74h17.43s3.14,4.27,3.14,4.27h17.38s2.1-2.31,2.1-2.31h29.05s2.84,2.43,2.84,2.43l19.78-.11,3.13-4.27h18s2.72,4.39,2.72,4.39h4.45s6.6-9.9,6.6-9.9Z" style="fill: rgb(64, 64, 64); stroke: rgb(0, 0, 0); stroke-width: 0.2px;"></path>
+          </g>
+          <path class="cls-24" d="M1521.19,205.42l-7.89,5.25h-304.48s-417.01,0-417.01,0l-8.97-5.25h738.35s0,0,0,0Z" style="fill: rgb(32, 32, 32);"></path>
+        </g>
+        <polygon class="cls-24" points="816 207.84 816 214.84 780 214.84 780 211.84 783 211.84 783 207.84 780 207.84 780 204.84 777 204.84 777 192.84 783 192.84 783 203.84 816 203.84 816 207.84" style="fill: rgb(32, 32, 32);"></polygon>
+        <polygon class="cls-24" points="1501.1 213.81 1501.1 210.67 1513.3 210.67 1521 204.84 1521 191.84 1527 191.84 1527 199.52 1530 200.84 1533 204.99 1533 207.84 1527 207.84 1527 210.84 1524 210.84 1524 214.84 1527 214.84 1527 220.84 1513 220.86 1513 218.84 1510 218.84 1501.1 216.21 1501.1 213.81" style="fill: rgb(32, 32, 32);"></polygon>
+      </g>
+      <animateTransform type="translate" additive="sum" attributeName="transform" values="-2000 0;300 0" begin="0s" dur="4s" fill="freeze" keyTimes="0; 1" calcMode="spline" keySplines="0 0 0.58 1"></animateTransform>
+      <animateTransform type="translate" additive="sum" attributeName="transform" values="0 0;-600 0;0 0" begin="4s" dur="10s" fill="freeze" keyTimes="0; 0.6; 1" repeatCount="indefinite" calcMode="spline" keySplines="0.42 0 0.58 1; 0.42 0 0.58 1"></animateTransform>
+    </g>
+    <g>
+      <bx:title>foreground</bx:title>
+      <g>
+        <bx:title>foreground</bx:title>
+        <rect class="cls-1" x="1" y="241.99" width="2400" height="10" style="stroke-linejoin: bevel; stroke-width: 2px; fill: rgb(98, 46, 15); stroke: rgb(198, 130, 55);">
+          <bx:title>rail</bx:title>
+        </rect>
+        <g>
+          <bx:title>wires</bx:title>
+          <g transform="matrix(1, 0, 0, 1, 0, 88)">
+            <bx:title>wire</bx:title>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-origin: 1px -249.67px;" x1="1" y1="-49.67" x2="801" y2="-49.67"></line>
+            <path style="stroke: rgb(0, 0, 0); fill: none; transform-origin: 1.022px -145.842px;" d="M 1 -109.67 C 79.111 -89.919 714.268 -93.409 801 -109.67"></path>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="81" y1="-101.67" x2="81" y2="-49.67"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="161" y1="-49.67" x2="161" y2="-98.47"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="241" y1="-49.67" x2="241" y2="-96.87"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="321" y1="-49.67" x2="321" y2="-96.07"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="401" y1="-49.67" x2="401" y2="-96.07"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="481" y1="-49.67" x2="481" y2="-96.87"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="561" y1="-49.67" x2="561" y2="-97.67"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="641" y1="-49.67" x2="641" y2="-99.67"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="721" y1="-49.67" x2="721" y2="-102.87"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="801" y1="-49.67" x2="801" y2="-109.67"></line>
+            <g transform="matrix(4, 0, 0, 4, -1599.000488, -337.669983)">
+              <bx:title>post</bx:title>
+              <path d="M 399.679 118.527 Q 400.001 117.474 400.322 118.527 L 402.894 126.947 Q 403.215 128 402.572 128 L 397.429 128 Q 396.786 128 397.107 126.947 Z" bx:shape="triangle 396.786 117.474 6.429 10.526 0.5 0.1 1@6209e65c" style="fill: rgb(129, 129, 129);"></path>
+              <rect x="399" y="54" width="2" height="70" style="fill: rgb(129, 129, 129);"></rect>
+            </g>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, 800, 88)">
+            <bx:title>wire</bx:title>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-origin: 1px -249.67px;" x1="1" y1="-49.67" x2="801" y2="-49.67"></line>
+            <path style="stroke: rgb(0, 0, 0); fill: none; transform-origin: 1.022px -145.842px;" d="M 1 -109.67 C 79.111 -89.919 714.268 -93.409 801 -109.67"></path>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="81" y1="-101.67" x2="81" y2="-49.67"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="161" y1="-49.67" x2="161" y2="-98.47"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="241" y1="-49.67" x2="241" y2="-96.87"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="321" y1="-49.67" x2="321" y2="-96.07"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="401" y1="-49.67" x2="401" y2="-96.07"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="481" y1="-49.67" x2="481" y2="-96.87"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="561" y1="-49.67" x2="561" y2="-97.67"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="641" y1="-49.67" x2="641" y2="-99.67"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="721" y1="-49.67" x2="721" y2="-102.87"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="801" y1="-49.67" x2="801" y2="-109.67"></line>
+            <g transform="matrix(4, 0, 0, 4, -1599.000488, -337.669983)">
+              <bx:title>post</bx:title>
+              <path d="M 399.679 118.527 Q 400.001 117.474 400.322 118.527 L 402.894 126.947 Q 403.215 128 402.572 128 L 397.429 128 Q 396.786 128 397.107 126.947 Z" bx:shape="triangle 396.786 117.474 6.429 10.526 0.5 0.1 1@6209e65c" style="fill: rgb(129, 129, 129);"></path>
+              <rect x="399" y="54" width="2" height="70" style="fill: rgb(129, 129, 129);"></rect>
+            </g>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, 1600, 88)">
+            <bx:title>wire</bx:title>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-origin: 1px -249.67px;" x1="1" y1="-49.67" x2="801" y2="-49.67"></line>
+            <path style="stroke: rgb(0, 0, 0); fill: none; transform-origin: 1.022px -145.842px;" d="M 1 -109.67 C 79.111 -89.919 714.268 -93.409 801 -109.67"></path>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="81" y1="-101.67" x2="81" y2="-49.67"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="161" y1="-49.67" x2="161" y2="-98.47"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="241" y1="-49.67" x2="241" y2="-96.87"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="321" y1="-49.67" x2="321" y2="-96.07"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="401" y1="-49.67" x2="401" y2="-96.07"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="481" y1="-49.67" x2="481" y2="-96.87"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="561" y1="-49.67" x2="561" y2="-97.67"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="641" y1="-49.67" x2="641" y2="-99.67"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="721" y1="-49.67" x2="721" y2="-102.87"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="801" y1="-49.67" x2="801" y2="-109.67"></line>
+            <g transform="matrix(4, 0, 0, 4, -1599.000488, -337.669983)">
+              <bx:title>post</bx:title>
+              <path d="M 399.679 118.527 Q 400.001 117.474 400.322 118.527 L 402.894 126.947 Q 403.215 128 402.572 128 L 397.429 128 Q 396.786 128 397.107 126.947 Z" bx:shape="triangle 396.786 117.474 6.429 10.526 0.5 0.1 1@6209e65c" style="fill: rgb(129, 129, 129);"></path>
+              <rect x="399" y="54" width="2" height="70" style="fill: rgb(129, 129, 129);"></rect>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 2400, 0)">
+        <bx:title>foreground</bx:title>
+        <rect class="cls-1" x="1" y="241.99" width="2400" height="10" style="stroke-linejoin: bevel; stroke-width: 2px; fill: rgb(98, 46, 15); stroke: rgb(198, 130, 55);">
+          <bx:title>rail</bx:title>
+        </rect>
+        <g>
+          <bx:title>wires</bx:title>
+          <g transform="matrix(1, 0, 0, 1, 0, 88)">
+            <bx:title>wire</bx:title>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-origin: 1px -249.67px;" x1="1" y1="-49.67" x2="801" y2="-49.67"></line>
+            <path style="stroke: rgb(0, 0, 0); fill: none; transform-origin: 1.022px -145.842px;" d="M 1 -109.67 C 79.111 -89.919 714.268 -93.409 801 -109.67"></path>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="81" y1="-101.67" x2="81" y2="-49.67"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="161" y1="-49.67" x2="161" y2="-98.47"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="241" y1="-49.67" x2="241" y2="-96.87"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="321" y1="-49.67" x2="321" y2="-96.07"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="401" y1="-49.67" x2="401" y2="-96.07"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="481" y1="-49.67" x2="481" y2="-96.87"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="561" y1="-49.67" x2="561" y2="-97.67"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="641" y1="-49.67" x2="641" y2="-99.67"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="721" y1="-49.67" x2="721" y2="-102.87"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="801" y1="-49.67" x2="801" y2="-109.67"></line>
+            <g transform="matrix(4, 0, 0, 4, -1599.000488, -337.669983)">
+              <bx:title>post</bx:title>
+              <path d="M 399.679 118.527 Q 400.001 117.474 400.322 118.527 L 402.894 126.947 Q 403.215 128 402.572 128 L 397.429 128 Q 396.786 128 397.107 126.947 Z" bx:shape="triangle 396.786 117.474 6.429 10.526 0.5 0.1 1@6209e65c" style="fill: rgb(129, 129, 129);"></path>
+              <rect x="399" y="54" width="2" height="70" style="fill: rgb(129, 129, 129);"></rect>
+            </g>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, 800, 88)">
+            <bx:title>wire</bx:title>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-origin: 1px -249.67px;" x1="1" y1="-49.67" x2="801" y2="-49.67"></line>
+            <path style="stroke: rgb(0, 0, 0); fill: none; transform-origin: 1.022px -145.842px;" d="M 1 -109.67 C 79.111 -89.919 714.268 -93.409 801 -109.67"></path>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="81" y1="-101.67" x2="81" y2="-49.67"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="161" y1="-49.67" x2="161" y2="-98.47"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="241" y1="-49.67" x2="241" y2="-96.87"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="321" y1="-49.67" x2="321" y2="-96.07"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="401" y1="-49.67" x2="401" y2="-96.07"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="481" y1="-49.67" x2="481" y2="-96.87"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="561" y1="-49.67" x2="561" y2="-97.67"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="641" y1="-49.67" x2="641" y2="-99.67"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="721" y1="-49.67" x2="721" y2="-102.87"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="801" y1="-49.67" x2="801" y2="-109.67"></line>
+            <g transform="matrix(4, 0, 0, 4, -1599.000488, -337.669983)">
+              <bx:title>post</bx:title>
+              <path d="M 399.679 118.527 Q 400.001 117.474 400.322 118.527 L 402.894 126.947 Q 403.215 128 402.572 128 L 397.429 128 Q 396.786 128 397.107 126.947 Z" bx:shape="triangle 396.786 117.474 6.429 10.526 0.5 0.1 1@6209e65c" style="fill: rgb(129, 129, 129);"></path>
+              <rect x="399" y="54" width="2" height="70" style="fill: rgb(129, 129, 129);"></rect>
+            </g>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, 1600, 88)">
+            <bx:title>wire</bx:title>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-origin: 1px -249.67px;" x1="1" y1="-49.67" x2="801" y2="-49.67"></line>
+            <path style="stroke: rgb(0, 0, 0); fill: none; transform-origin: 1.022px -145.842px;" d="M 1 -109.67 C 79.111 -89.919 714.268 -93.409 801 -109.67"></path>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="81" y1="-101.67" x2="81" y2="-49.67"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="161" y1="-49.67" x2="161" y2="-98.47"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="241" y1="-49.67" x2="241" y2="-96.87"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="321" y1="-49.67" x2="321" y2="-96.07"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="401" y1="-49.67" x2="401" y2="-96.07"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="481" y1="-49.67" x2="481" y2="-96.87"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="561" y1="-49.67" x2="561" y2="-97.67"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="641" y1="-49.67" x2="641" y2="-99.67"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="721" y1="-49.67" x2="721" y2="-102.87"></line>
+            <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="801" y1="-49.67" x2="801" y2="-109.67"></line>
+            <g transform="matrix(4, 0, 0, 4, -1599.000488, -337.669983)">
+              <bx:title>post</bx:title>
+              <path d="M 399.679 118.527 Q 400.001 117.474 400.322 118.527 L 402.894 126.947 Q 403.215 128 402.572 128 L 397.429 128 Q 396.786 128 397.107 126.947 Z" bx:shape="triangle 396.786 117.474 6.429 10.526 0.5 0.1 1@6209e65c" style="fill: rgb(129, 129, 129);"></path>
+              <rect x="399" y="54" width="2" height="70" style="fill: rgb(129, 129, 129);"></rect>
+            </g>
+          </g>
+        </g>
+      </g>
+      <animateTransform type="translate" additive="sum" attributeName="transform" values="0 0;-2400 0" begin="0s" dur="2s" fill="freeze" repeatCount="indefinite" keyTimes="0; 1"></animateTransform>
+    </g>
+  </g>
+</svg>

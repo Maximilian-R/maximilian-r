@@ -1,0 +1,26 @@
+<svg viewBox="0 0 500 80" xmlns="http://www.w3.org/2000/svg">
+  <defs></defs>
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="0" y1="50" x2="500" y2="50"></line>
+  <g transform="matrix(1, 0, 0, 1, 0, 12)">
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" x="240.908" y="41.037" dx="146.715" dy="-14.862">🌲</text>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" x="272.966" y="13.563" dx="-33.907" dy="12.944">🌲</text>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" x="197.292" y="10.269" dx="-42.233" dy="19.262">🌲</text>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" x="338.466" y="17.514" dx="-15.033" dy="9.015">🌲</text>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" x="216.122" y="28.644" dx="-92.795" dy="-7.652">🌲</text>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" x="121.678" y="47.667" dx="-45.066" dy="-19.534">🌲</text>
+  </g>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 53px; white-space: pre;" x="32.86" y="42.679"><title>Mountain</title>⛰️</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 53px; white-space: pre;" x="415.297" y="40.472"><title>Mountain</title>⛰️</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="500.309" y="47.309"><title>Train</title>🚂<animateTransform type="translate" additive="sum" attributeName="transform" values="0 0;-530 0" begin="0s" dur="6s" keyTimes="0; 1" fill="freeze" repeatCount="indefinite"></animateTransform></text>
+  <g transform="matrix(1, 0, 0, 1, 0, 12)">
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" x="36.303" y="23.346" dx="-30.28" dy="18.292">🌲</text>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" x="235.58" y="13.456" dx="-132.438" dy="27.045">🌲</text>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" x="331.256" y="28.193" dx="-29.31" dy="17.215">🌲</text>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" x="358.83" y="53.714" dx="59.446" dy="-12.938">🌲</text>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" x="208.344" y="35.287" dx="-20.517" dy="7.786">🌲</text>
+  </g>
+  <rect x="-18.62" y="-0.001" width="57.952" height="53.577" style="stroke: rgb(0, 0, 0); stroke-width: 0px; fill: rgb(255, 255, 255);"></rect>
+  <rect x="464.786" y="-2.737" width="57.952" height="53.577" style="stroke: rgb(0, 0, 0); stroke-width: 0px; fill: rgb(255, 255, 255);"></rect>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 63px; white-space: pre;" x="0.391" y="53.43"><title>Mountain</title>⛰️</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 63px; white-space: pre;" x="438.031" y="61.95"><title>Mountain</title>⛰️</text>
+</svg>
