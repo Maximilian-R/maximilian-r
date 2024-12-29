@@ -1,4 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 100" xmlns:bx="https://boxy-svg.com">
+<style>
+@media (prefers-color-scheme: dark) {
+  #background path {
+    fill: rgb(25, 50, 31) !important;
+  }
+  .cls-14 {
+    fill: rgb(233, 234, 108) !important;
+  }
+}</style>
   <defs>
     <linearGradient id="Namnlös_övertoning_73" data-name="Namnlös övertoning 73" x1="403.95" y1="81.96" x2="403.95" y2="88.92" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#fff"></stop>
@@ -20,7 +29,7 @@
   </defs>
   <g id="Lager_1" data-name="Lager 1" transform="matrix(0.25, 0, 0, 0.25, -1, 86.170052)" style="transform-origin: 1px -83.67px;">
     <bx:title>scene</bx:title>
-    <g transform="matrix(1, 0, 0, 0.493545, 0, -25.15572)">
+    <g transform="matrix(1, 0, 0, 0.493545, 0, -25.15572)" id="background">
       <bx:title>background</bx:title>
       <path style="fill: rgb(195, 247, 208);" d="M 2401.144 84.051 C 2401.144 84.051 2601.46 147.79 2717.93 62.644 C 2942.91 -101.83 3139.22 -85.66 3306.84 111.147 C 3360 173.568 3433.83 160.421 3528.31 71.706 C 3666.93 -58.451 3842.05 -40.124 4053.65 126.687 C 4143.74 197.7 4249.63 174.173 4371.3 56.105 C 4483 -52.28 4733.12 -1.325 4801 84.21 L 4800.6 549.983 L 2401.4 550.072 L 2401.144 84.051 Z"></path>
       <path style="fill: rgb(195, 247, 208);" d="M 1 84.051 C 1 84.051 201.32 147.79 317.79 62.644 C 542.77 -101.83 739.08 -85.66 906.7 111.147 C 959.86 173.568 1033.69 160.421 1128.17 71.706 C 1266.79 -58.451 1441.91 -40.124 1653.51 126.687 C 1743.6 197.7 1849.49 174.173 1971.16 56.105 C 2082.86 -52.28 2332.98 -1.325 2400.86 84.21 L 2400.46 549.983 L 1.26 550.072 L 1 84.051 Z"></path>
@@ -217,7 +226,7 @@
       <bx:title>foreground</bx:title>
       <g>
         <bx:title>foreground</bx:title>
-        <rect class="cls-1" x="1" y="241.99" width="2400" height="10" style="stroke-linejoin: bevel; stroke-width: 2px; fill: rgb(98, 46, 15); stroke: rgb(198, 130, 55);">
+        <rect class="cls-1" x="1" y="241.99" width="2400" height="10" style="stroke-linejoin: bevel; stroke-width: 2px; fill: rgb(77 77 77); stroke: rgb(147 147 147);">
           <bx:title>rail</bx:title>
         </rect>
         <g>
@@ -286,7 +295,7 @@
       </g>
       <g transform="matrix(1, 0, 0, 1, 2400, 0)">
         <bx:title>foreground</bx:title>
-        <rect class="cls-1" x="1" y="241.99" width="2400" height="10" style="stroke-linejoin: bevel; stroke-width: 2px; fill: rgb(98, 46, 15); stroke: rgb(198, 130, 55);">
+        <rect class="cls-1" x="1" y="241.99" width="2400" height="10" style="stroke-linejoin: bevel; stroke-width: 2px; fill: rgb(77 77 77); stroke: rgb(147 147 147);">
           <bx:title>rail</bx:title>
         </rect>
         <g>
